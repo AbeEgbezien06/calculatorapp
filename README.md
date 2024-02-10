@@ -111,3 +111,28 @@ If you encounter a bug, please open an issue on our GitHub page. Include as much
 We're always open to new ideas! If you have a suggestion for a new feature, please open a new issue on our GitHub page. Describe your idea in detail and explain how it would improve the calculator project.
 
 
+
+## Setting Up a Development Environment
+Here are the steps to set up a development environment for our calculator project:
+
+1. Fork the project repository on GitHub.
+2. Clone your fork to your local machine.
+3. Install the project dependencies. For example, if the project uses Node.js, you would run `npm install`.
+4. Make your changes in a new git branch: `git checkout -b my-branch-name`
+5. Test your changes and ensure that all tests pass.
+6. Commit your changes: `git commit -m 'Add some feature'`
+7. Push your branch to GitHub: `git push origin my-branch-name`
+8. Open a pull request in the original repository.
+
+## Code Reviews
+All submissions, including submissions by project members, require a code review. We use GitHub's pull request workflow for code reviews.
+
+## Community
+We strive to create a welcoming and inclusive community. Please follow our code of conduct in all your interactions with the project.
+
+
+
+## Contact Information
+  . lifabrahim1209@gmail.com
+  . 
+
